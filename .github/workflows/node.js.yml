@@ -7,7 +7,7 @@ on:
   push:
     branches: [ master ]
   pull_request:
-    branches: [ master ]
+    branches: [ jassu2017-patch-1 ]
 
 jobs:
   build:
